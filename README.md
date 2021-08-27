@@ -12,7 +12,10 @@ Hi I am Donard from Kosovo. A passionate new software developer, currently study
 - 👨‍💻 All of my projects are available at [https://github.com/Donard97](https://github.com/Donard97)
 
 - 📫 How to reach me **donardgolaj@gmail.com**
+ 
+- ❓  Ask me about : ...Anything 
 
+- :smiley: Pronouns : ... He/Him 
 
 
 <h3 align="left">Languages and Tools:</h3>
