@@ -1,6 +1,6 @@
 ## HEY THERE :wave:
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
 
 ![Hi i'm donArd golaj](https://user-images.githubusercontent.com/74506933/131107277-df8831b3-48c0-4a19-bc46-4428c4f59dba.png)
 
