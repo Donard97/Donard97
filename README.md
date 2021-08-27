@@ -2,7 +2,7 @@
 
 ![Hi i'm donArd golaj](https://user-images.githubusercontent.com/74506933/131107277-df8831b3-48c0-4a19-bc46-4428c4f59dba.png)
 
-Hi I am Donard from Kosovo. A passionate new software developer, currently studying at @Microverse . I really enjoy learning languages and frameworks like Javascript, React , Ruby and Ruby on rails .
+Hi I am Donard from Kosovo. A passionate new software developer . I really enjoy learning languages and frameworks like Javascript, React , Ruby and Ruby on rails . :computer:
 
 
 - 🔭 I’m currently studying on **@Microverse**
