@@ -7,7 +7,7 @@
 Hi I am Donard from Kosovo. A passionate new software developer . I really enjoy learning languages and frameworks like Javascript, React , Ruby and Ruby on rails . :computer:
 
 
-- 🔭 I’m currently studying on **@Microverse**
+- 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
 
 - 🌱 I’m currently learning **Javascript, React ,Ruby , Ruby on rails**
 
