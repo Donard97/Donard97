@@ -4,16 +4,16 @@
 
 ![Hi i'm donArd golaj](https://user-images.githubusercontent.com/74506933/131107277-df8831b3-48c0-4a19-bc46-4428c4f59dba.png)
 
-Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjoy learning languages and frameworks like Javascript, React, Ruby, and Ruby on rails. :computer:
+Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjoy learning languages and frameworks like Javascript, React, Ruby, and Ruby on Rails. :computer:
 
 
 - 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
 
-- 🌱 I’m currently learning: **Javascript, React ,Ruby , Ruby on rails**
+- 🌱 I’m currently learning: **Javascript, React ,Ruby , Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [Donard97](https://github.com/Donard97)
 
-- 📫 How to reach me:**donardgolaj@gmail.com** 
+- 📫 How to reach me: **donardgolaj@gmail.com** 
  
 - ❓  Ask me about : ...Anything 
 
