@@ -13,7 +13,8 @@ Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjo
 
 - 👨‍💻 All of my projects are available at [Donard97](https://github.com/Donard97)
 
-- 📫 How to reach me: **donardgolaj@gmail.com**
+- 📫 How to reach me: email: **donardgolaj@gmail.com**
+                      linkedin: [donard-golaj](https://www.linkedin.com/in/donard-golaj/)
  
 - ❓  Ask me about : ...Anything 
 
