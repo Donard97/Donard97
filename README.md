@@ -33,8 +33,8 @@ Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjo
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/donardgolaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/donardgolaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/donard-golaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donard-golaj/" height="30" width="40" /></a>
+<a href="https://twitter.com/donardgolaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/donardgolaj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/donard-golaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donard-golaj/" height="30" width="40" /></a>
 <a href="https://fb.com/donardgola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="donardgola" height="30" width="40" /></a>
 <a href="https://instagram.com/donardgola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="donardgola" height="30" width="40" /></a>
 <a href="https://discord.gg/Donard#1716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Donard#1716" height="30" width="40" /></a>
