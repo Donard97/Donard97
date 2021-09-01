@@ -1,8 +1,10 @@
-## HEY THERE :wave: 
+<h1 align="center">HEY THERE :wave: </h1> 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
 
-![Hi i'm donArd golaj](https://user-images.githubusercontent.com/74506933/131107277-df8831b3-48c0-4a19-bc46-4428c4f59dba.png)
+<p align="center"><img  src="https://user-images.githubusercontent.com/74506933/131107277-df8831b3-48c0-4a19-bc46-4428c4f59dba.png" alt="donard97" /></p>
+<br>
+
 
 <p align="center">
 Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjoy learning languages and frameworks like Javascript, React, Ruby, and Ruby on Rails. :computer:
@@ -39,9 +41,9 @@ Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjo
 
 <br>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=donard97&show_icons=true&locale=en" alt="donard97"  /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=donard97&show_icons=true&locale=en" alt="donard97"  /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=donard97&show_icons=true&locale=en&layout=compact" alt="donard97" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=donard97&show_icons=true&locale=en&layout=compact" alt="donard97" /></p>
 <br>
 
 
