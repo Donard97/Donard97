@@ -1,6 +1,6 @@
 <h1 align="center">HEY THERE :wave: </h1> 
 
-![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
+
 
 <p align="center"><img  src="https://user-images.githubusercontent.com/74506933/131107277-df8831b3-48c0-4a19-bc46-4428c4f59dba.png" alt="donard97" /></p>
 <br>
@@ -11,6 +11,8 @@ Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjo
  </p>
 <br>
 <div align="center">
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
 
  🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
 
@@ -23,6 +25,7 @@ Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjo
   ❓  Ask me about : ...Anything 
 
 - :smiley: Pronouns : ... He/Him 
+ 
  </div>
 
 <br>
