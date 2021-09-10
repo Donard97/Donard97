@@ -6,9 +6,9 @@
 <br>
 
 
-<p align="center">
+<p align="center"><i>
 Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjoy learning languages and frameworks like Javascript, React, Ruby, and Ruby on Rails. :computer:
- </p>
+ <i></p>
 <br>
 <div align="center">
  
