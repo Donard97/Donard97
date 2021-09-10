@@ -7,22 +7,22 @@
 
 
 <p align="center"><i>
-Hi! I am Donard, from Kosovo. A passionate new software developer. I really enjoy learning languages and frameworks like Javascript, React, Ruby, and Ruby on Rails. :computer:
+Hi! I am Donard, from Kosovo. A passionate new software developer. I enjoy learning languages and frameworks like Javascript, React Ruby, and Ruby on Rails. :computer:
  <i></p>
 <br>
 <div align="center">
  
  ![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
+ 
+🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
 
- 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
-
- 🌱 I’m currently learning: **Javascript, React ,Ruby , Ruby on Rails**
+ 🌱 I’m currently learning: **Javascript, React, Ruby, Ruby on Rails**
 
  👨‍💻 All of my projects are available at [Donard97](https://github.com/Donard97)
 
  📫 How to reach me: **donardgolaj@gmail.com**  
  
-  ❓  Ask me about : ...Anything 
+  ❓  Ask me about: ...Anything 
 
 - :smiley: Pronouns : ... He/Him 
  
