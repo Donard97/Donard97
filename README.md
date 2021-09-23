@@ -6,9 +6,9 @@
 <br>
 
 
-<p align="center"><i>
+<p align="center"><i><strong>
 Hi! I am Donard, from Kosovo. A passionate new software developer. I enjoy learning languages and frameworks like JavaScript, React Ruby, and Ruby on Rails. :computer:
- <i></p>
+ </strong><i></p>
 <br>
 <div align="center">
  
@@ -24,7 +24,7 @@ Hi! I am Donard, from Kosovo. A passionate new software developer. I enjoy learn
  
   ❓  Ask me about: ...Anything 
 
-- :smiley: Pronouns : ... He/Him 
+ :smiley: Pronouns : ... He/Him 
  
  </div>
 
