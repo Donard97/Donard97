@@ -7,7 +7,8 @@
 
 
 <p align="center"><i><strong>
-Hi! I am Donard, from Kosovo. A passionate new software developer. I enjoy learning languages and frameworks like JavaScript, React Ruby, and Ruby on Rails. :computer:
+Hi! I am Donard, from Kosovo. A highly motivated software developer who likes to challenge himself with the latest trends..<br> 
+I enjoy learning languages and frameworks like JavaScript, React Ruby, and Ruby on Rails. :computer:
  </strong><i></p>
 <br>
 <div align="center">
