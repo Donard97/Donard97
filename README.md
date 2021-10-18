@@ -15,9 +15,9 @@ I enjoy learning languages and frameworks like JavaScript, React Ruby, and Ruby 
  
  ![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
  
-🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
-
- 🌱 I’m currently learning: **JavaScript, React, Ruby, Ruby on Rails**
+🔭 I’m currently training to become a full-stack software developer Microverse Inc
+ 
+💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
 
  👨‍💻 All of my projects are available at [Donard97](https://github.com/Donard97)
 
