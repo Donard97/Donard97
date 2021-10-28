@@ -10,7 +10,7 @@
 Hi! I am Donard, from Kosovo. A highly motivated Full-stack developer who likes to challenge himself with the latest trends.<br> 
 I enjoy learning languages and frameworks like JavaScript, React Ruby, and Ruby on Rails. :computer:
  </strong><i></p>
-<br>
+ 
 <div align="center">
  
  ![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
