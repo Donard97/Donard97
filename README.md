@@ -17,7 +17,7 @@ I enjoy learning languages and frameworks like JavaScript, React Ruby, and Ruby 
  
 🔭 I’m currently training to become a full-stack software developer Microverse Inc
  
-💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
+💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux, PostgreSQL 
 
  👨‍💻 All of my projects are available at [Donard97](https://github.com/Donard97)
 
