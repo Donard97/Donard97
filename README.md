@@ -14,7 +14,7 @@ I enjoy learning languages and frameworks like JavaScript, React, Ruby, and Ruby
  
  ![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
  
-🔭 I’m currently training to become a full-stack software developer Microverse Inc
+🔭 I’m a certified full-stack software developer from Microverse Inc
  
 💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux, PostgreSQL 
 
