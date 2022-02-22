@@ -6,8 +6,7 @@
 
 
 <p align="center"><i><strong>
-Hi! I am Donard, from Kosovo. A highly motivated Full-stack developer who likes to challenge himself with the latest trends.<br> 
-I enjoy learning languages and frameworks like JavaScript, React, Ruby, and Ruby on Rails. :computer:
+Hi! I am Donard, from Kosovo. From bartender becoming a Full-Stack developer who likes to challenge himself.<br> 
  </strong><i></p>
  
 <div align="center">
