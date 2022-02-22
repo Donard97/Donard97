@@ -6,7 +6,7 @@
 
 
 <p align="center"><i><strong>
-Hi! I am Donard, from Kosovo. From bartender becoming a Full-Stack developer who likes to challenge himself.<br> 
+From bartender becoming a Full-Stack developer who likes to challenge himself.<br> 
  </strong><i></p>
  
 <div align="center">
