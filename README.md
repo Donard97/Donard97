@@ -13,7 +13,7 @@ From bartender becoming a Full-Stack developer who likes to challenge himself.<b
  
  ![](https://komarev.com/ghpvc/?username=your-github-Donard97&label=PROFILE+VIEWS)
  
-🔭 I’m a certified full-stack software developer from Microverse Inc
+🔭 I’m a certified full-stack developer from Microverse Inc
  
 💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux, PostgreSQL 
 
